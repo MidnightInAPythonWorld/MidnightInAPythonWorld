@@ -5,4 +5,4 @@
 - :octocat: I’m looking to collaborate on Cyber Security Projects, OSINT, and Finance data curation projects.
 - :bowtie: I’m looking for help with Machine Learning & Django.
 - 👌  Pronouns: He/His/Him
-- 🎙️ Favorite Podcast: Storytelling with Data, Darknet Diaries, Privacy Security & OSINT, PythonBytes, Digitial Forensic Survival, Talk Python to Me, ICS StormCast
+- 🎙️ Favorite Podcast: Storytelling with Data, a16z, Darknet Diaries, Privacy Security & OSINT, PythonBytes, Digitial Forensic Survival, Talk Python to Me, ICS StormCast
