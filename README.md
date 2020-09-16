@@ -12,7 +12,7 @@ Also interested in:
 - Web Security, Finance
 
 Current Projects:
-- Working on a data exploration projects with Open Source Cyber Reporting couple with Machine Learning.  Still early on with the data and this project for learning Machine Learning, data structures, and NLP.  
+- Working on a Python project and exploring Open Source Cyber Reporting.  Just a project to learn/practice AWS, ML, data structures, and NLP.  
 
 
 Cheers,  
