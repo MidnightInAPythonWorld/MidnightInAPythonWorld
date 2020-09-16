@@ -6,7 +6,7 @@ Technologies:
  - Python, NoSQL, Java, Node, JavaScript, Machine Learning
  
 Domains of Expertise:
-  - Cyber Security, OSINT
+  - Cyber Security, OSINT, all things TCP/IP
   
 Also interested in:
 - Web Security, Finance
