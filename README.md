@@ -3,7 +3,7 @@
 I'm a Cyber Security Engineer by profession and this is a collection of some of my projects/scripts. 
 
 Technologies:
- - Python, NoSQL, Java, Node, JavaScript, Machine Learning
+ - Python, NoSQL
  
 Domains of Expertise:
   - Cyber Security, OSINT, all things TCP/IP
