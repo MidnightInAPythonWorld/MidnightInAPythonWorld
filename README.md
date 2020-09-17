@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Cyber Security Engineer by profession and this is a collection of some of my projects/scripts. 
+I'm a Cyber Security Engineer by profession and this is a collection of some of my scripts. 
 
 Technologies:
  - Python, MongoDB, Django
