@@ -14,6 +14,3 @@ Also interested in:
 Current Projects:
 - Exploring Open Source Cyber Reporting using Python/MongoDB.  Just a tradecraft project to practice AWS, ML, data structures, data algorithms, and NLP.  
 
-
-Cheers,  
-MidnightInAPythonWorld
