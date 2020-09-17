@@ -12,7 +12,7 @@ Also interested in:
 - Web Security, Finance, OSINT
 
 Current Projects:
-- Working on a Python project and exploring Open Source Cyber Reporting.  Just a tradecraft project to practice AWS, ML, data structures and algorithms, and NLP.  
+- Working on a Python project and exploring Open Source Cyber Reporting.  Just a tradecraft project to practice AWS, ML, data structures, data algorithms, and NLP.  
 
 
 Cheers,  
