@@ -9,6 +9,7 @@ Domain Knowledge:
 - Cyber Security, Finance, OSINT,
 
 Current Projects:
-- Exploring Open Source Cyber Reporting using Python -> MongoDB/Postgres -> and Django on frontend.
+- Exploring Open Source Cyber Reporting using Python to scrap, MongoDB/Postgres to store, and Django on frontend.
 - Creating a REST API for interacting with MongoDBs.
+- Building out ELK cluster for data exploration.
 
