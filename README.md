@@ -6,7 +6,7 @@ Technologies:
  - Python, MongoDB, Postgres, Django,
  
 Domain Knowledge:
-- Cyber Security, Finance, OSINT,
+- Cyber Security, OSINT
 
 Current Projects:
 - Exploring Open Source Cyber Reporting using Python to scrap, MongoDB/Postgres to store, and Django on frontend.
